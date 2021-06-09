@@ -1,0 +1,13 @@
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\bin\Debug\netcoreapp3.1\Primer_programa.exe
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\bin\Debug\netcoreapp3.1\Primer_programa.deps.json
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\bin\Debug\netcoreapp3.1\Primer_programa.runtimeconfig.json
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\bin\Debug\netcoreapp3.1\Primer_programa.runtimeconfig.dev.json
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\bin\Debug\netcoreapp3.1\Primer_programa.dll
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\bin\Debug\netcoreapp3.1\Primer_programa.pdb
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\obj\Debug\netcoreapp3.1\Primer_programa.csproj.AssemblyReference.cache
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\obj\Debug\netcoreapp3.1\Primer_programa.AssemblyInfoInputs.cache
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\obj\Debug\netcoreapp3.1\Primer_programa.AssemblyInfo.cs
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\obj\Debug\netcoreapp3.1\Primer_programa.csproj.CoreCompileInputs.cache
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\obj\Debug\netcoreapp3.1\Primer_programa.dll
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\obj\Debug\netcoreapp3.1\Primer_programa.pdb
+C:\Users\Mipc\Desktop\Splai Programación\Splai\Primer_programa\Primer_programa\obj\Debug\netcoreapp3.1\Primer_programa.genruntimeconfig.cache
