@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Primer_programa/1.0.0": {
+      "2codigo/1.0.0": {
         "runtime": {
-          "Primer_programa.dll": {}
+          "2codigo.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Primer_programa/1.0.0": {
+    "2codigo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

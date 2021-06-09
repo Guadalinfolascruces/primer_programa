@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\Primer_programa\\Primer_programa\\Primer_programa.csproj": {}
+    "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\2codigo\\2codigo\\2codigo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\Primer_programa\\Primer_programa\\Primer_programa.csproj": {
+    "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\2codigo\\2codigo\\2codigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\Primer_programa\\Primer_programa\\Primer_programa.csproj",
-        "projectName": "Primer_programa",
-        "projectPath": "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\Primer_programa\\Primer_programa\\Primer_programa.csproj",
+        "projectUniqueName": "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\2codigo\\2codigo\\2codigo.csproj",
+        "projectName": "2codigo",
+        "projectPath": "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\2codigo\\2codigo\\2codigo.csproj",
         "packagesPath": "C:\\Users\\Mipc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\Primer_programa\\Primer_programa\\obj\\",
+        "outputPath": "C:\\Users\\Mipc\\Desktop\\Splai Programación\\Splai\\2codigo\\2codigo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mipc\\AppData\\Roaming\\NuGet\\NuGet.Config",
